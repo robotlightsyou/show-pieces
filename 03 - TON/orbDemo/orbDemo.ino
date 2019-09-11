@@ -29,11 +29,11 @@
 
 // Update these with values suitable for your network.
 
-const char* ssid = "TONnointernet";
-const char* password = "theatreofnote";
+const char* ssid = "networkID";
+const char* password = "****";
 const char* mqtt_server = "192.168.2.101";
-const char* mqtt_username = "rthea";
-const char* mqtt_password = "fresnels";
+const char* mqtt_username = "user";
+const char* mqtt_password = "****";
 const int mqtt_port = 1883;
 const char* state = "";
 const char* oldState = "";
